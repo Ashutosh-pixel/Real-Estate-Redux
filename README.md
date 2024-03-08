@@ -1,5 +1,5 @@
 
-# Real-Estate-Redux
+# Real-Estate App
 Introducing our cutting-edge Rent Real Estate App, crafted with precision using React and Redux technologies. This user-friendly application revolutionizes property search, offering a seamless experience for users to explore a wide array of rental properties. With an intuitive interface, users can effortlessly browse through listings, filtering based on preferences, and gaining detailed insights into each property. Elevate your rental experience with our React Redux Real Estate App – where finding the perfect property becomes a breeze.
  
 ## Screenshots
