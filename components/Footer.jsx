@@ -8,8 +8,8 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-    © 2024 Realtor, Inc.
+    © 2024 MonoLine, Inc.
   </Box>
 );
 
-export default Footer
+export default Footer;
